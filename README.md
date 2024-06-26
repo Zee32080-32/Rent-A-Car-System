@@ -6,3 +6,8 @@
 - launch the user gui that allows them to view all of the vehicles, filter the vehicle and to rent it
 - the gui was made using java swing
 
+## How to deploy
+- this project will run on netbeans
+- the main file is RentalSystem.Java
+- use the nunber keys to navigate throgh menu
+  
